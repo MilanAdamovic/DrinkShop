@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
+
 namespace DrinkAndGo.Data.Models
 {
     public class Order
@@ -59,6 +60,11 @@ namespace DrinkAndGo.Data.Models
 
         [BindNever]
         [ScaffoldColumn(false)]
+        public string City { get; set; }
+
+        [Required(ErrorMessage ="Please enter your City")]
+        [StringLength(50)]
+
         public decimal OrderTotal { get; set; }
 
         [BindNever]
