@@ -1,0 +1,5 @@
+C:\Users\Milan\source\repos\Drink Shop\Drink Shop\obj\Debug\netcoreapp2.1\Drink Shop.csprojAssemblyReference.cache
+C:\Users\Milan\source\repos\Drink Shop\Drink Shop\obj\Debug\netcoreapp2.1\Drink Shop.RazorAssemblyInfo.cache
+C:\Users\Milan\source\repos\Drink Shop\Drink Shop\obj\Debug\netcoreapp2.1\Drink Shop.RazorAssemblyInfo.cs
+C:\Users\Milan\source\repos\Drink Shop\Drink Shop\obj\Debug\netcoreapp2.1\Drink Shop.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\Drink Shop\Drink Shop\obj\Debug\netcoreapp2.1\Drink Shop.AssemblyInfo.cs
